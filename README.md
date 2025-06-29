@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **AlKahfiHisyam/AlKahfiHisyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-Hi, I'm Al-Kahfi F. Hisyam <br>a passionate software engineer who loves solving real world problems with code. <br>I’m currently deep-diving into full stack ecosystems, and exploring modern developer tooling.
+## 💫 I'm Al-Kahfi F. Hisyam
+
+A passionate software engineer who loves solving real-world problems with code.  
+I’m currently deep-diving into full-stack ecosystems and exploring modern developer tooling.
+
+## 🚀 I Build Web Applications that Solve Real Problems
+
+I specialize in **Full Stack Web Development**, building clean, scalable, and user-focused applications.
+
+🤝 Open for collaboration
 
 
 ## 🌐 Socials:
